@@ -230,5 +230,5 @@ console.log('Keyboard shortcut: Ctrl+Shift+C to toggle chat');
 
 // ===== INITIALIZE CHATBOT =====
 setTimeout(() => {
-    embedChatbot('https://n8ngc.codeblazar.org/webhook/7c6656c8-b5c4-410d-9223-62ae47823656/chat');
+    embedChatbot('https://n8ngc.codeblazar.org/webhook/0c8abc0c-0516-4632-9513-2324d5d2ce2b/chat');
 }, 500);
